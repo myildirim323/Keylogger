@@ -7,10 +7,10 @@ Yüklenen makinede ki tüm klavye hareketlerini belirttiğiniz mail adresine gö
 Etik olmayan durumlarda kullanmayınız. Sorumluluk bana ait değildir.
 
 ### Projede Kullanılan Teknoloji ve Kütüphaneler
-Python 2.7
-pynput.keyboard
-smtplib
-threading
+* Python 2.7
+* pynput.keyboard
+* smtplib
+* threading
 
 ### Çalıştırma Adımları
 1. Cmd yi çalıştırın
